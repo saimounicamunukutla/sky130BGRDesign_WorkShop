@@ -1,4 +1,4 @@
-![CoverIm](https://user-images.githubusercontent.com/94695487/142817169-06d03bfe-98de-4e4c-a043-b8af26535f0e.PNG)
+![UsethisforGIT](https://user-images.githubusercontent.com/94695487/142820773-7e7980b2-9637-44db-976d-38657d39444b.PNG)
  
 
 **Band Gap Reference Workshop**
@@ -6,7 +6,7 @@
 
 
 
-**Sai Mounica Munukutla**
+**Submitted by: Sai Mounica Munukutla**
 
 
 
